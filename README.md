@@ -1,4 +1,4 @@
 php-event-ide
 =============
 
-IDE autocompletion for php Event library
+IDE autocompletion for php Event library extension
